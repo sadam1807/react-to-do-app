@@ -1,6 +1,6 @@
 # react-to-do-app
 
-In this repository you can list and add a new state to the current state
+In this repository, you can list and add a new state to the current state
 
 Run following commands to start the app :
 
